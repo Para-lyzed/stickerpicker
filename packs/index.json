@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "Emotes.json"
+  ],
+  "homeserver_url": "https://matrix.glitchinthematrix.duckdns.org"
+}
